@@ -1,0 +1,9 @@
+#Yandex Practicum        Дипломная работа
+#Бурмистрова Мария       Когорта 10
+#18 ноября 2023 г.
+
+.pytest/
+venv/
+.idea/
+.pytest_cache/
+__pycache__/
